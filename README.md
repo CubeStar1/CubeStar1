@@ -34,7 +34,7 @@
 
 ## 📌 Featured Projects
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand </summary>
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
