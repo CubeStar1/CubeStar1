@@ -25,7 +25,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=CubeStar1&count_private=true&theme=tokyonight&showicons=true"/>
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CubeStar1&theme=radical">
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CubeStar1&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CubeStar1&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CubeStar1&theme=radical ">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CubeStar1&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CubeStar1&theme=radical&utcOffset=8">
 </div>
