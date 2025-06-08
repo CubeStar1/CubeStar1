@@ -5,21 +5,20 @@
  ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FCubeStar181d8d.png?alt=media)
 
 ## 🔗 Links
-- [Portfolio](https://avinash.thecubestar.com/)
-- [LinkedIn](https://in.linkedin.com/in/avinash-anish-2509b22a8)
+<p align="left">
 
----
+[![Follow On Linkedin](https://img.shields.io/badge/Link-Linkedin-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/avinash-anish/)
+[![Follow On Linkedin](https://img.shields.io/badge/Link-Website-purple?style=for-the-badge&logo=Website)](https://avinash.thecubestar.com/)
+</p>
 
-### 🛠️ Languages and Tools :
+## 🛠️ Languages and Tools :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,js,ts,html,css,nextjs,react,svelte,supabase,arduino,git" />
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
   <img height="160em" src="http://github-readme-streak-stats.herokuapp.com?user=CubeStar1&theme=dark&background=000000"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=CubeStar1&count_private=true&theme=tokyonight&showicons=true"/>
