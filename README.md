@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=CubeStar1&style=flat-square&color=blue" alt="CubeStar11"/>
-  ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FCubeStar181d8d.png?alt=media)
 </div>
 
----
+ ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FCubeStar181d8d.png?alt=media)
 
 ## 🔗 Links
 - [Portfolio](https://avinash.thecubestar.com/)
