@@ -7,7 +7,7 @@ const fetchBentoUrl = async (apiUrl: string): Promise<string> => {
   try {
     const response = await fetch(apiUrl);
     if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`);
+      throw new Error(`HTTP error! status: ${response.status} ${response.json()}`);
     }
     const data: BentoResponse = (await response.json()) as BentoResponse;
     return data.url;
